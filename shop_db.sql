@@ -151,14 +151,6 @@ INSERT INTO `users` (`id`, `name`, `email`, `password`, `user_type`, `reset_toke
 (2, 'user', 'user@gmail.com', '$2y$10$GL5K1AGVjCHl1/y13D58U.6u/DQsQWt9hu./ScyJmHkiUTseVfvgm', 'user', NULL, 'verified');
 
 
---ADMIN 
---email:admin@gmail.com
---password:@Admin1234
-
-
---ADMIN 
---email:user@gmail.com
---password:@User1234
 -- --------------------------------------------------------
 
 --
